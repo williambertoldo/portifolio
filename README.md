@@ -3,7 +3,7 @@
 
 ## Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+![imagem 2](https://github.com/williambertoldo/portifolio/assets/135729314/2c94ef54-c937-42ce-ad6c-8a165543d7f4)
 
 ## Ferramentas utilizadas:
 
@@ -18,4 +18,3 @@
 ### William Bertoldo
 
 ### Instagram: https://instagram.com/williambertoldo
-
